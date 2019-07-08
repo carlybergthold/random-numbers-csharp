@@ -1,0 +1,11 @@
+/Users/Carly/C# Workspace/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.deps.json
+/Users/Carly/C# Workspace/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.runtimeconfig.json
+/Users/Carly/C# Workspace/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.runtimeconfig.dev.json
+/Users/Carly/C# Workspace/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.dll
+/Users/Carly/C# Workspace/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.pdb
+/Users/Carly/C# Workspace/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.csprojAssemblyReference.cache
+/Users/Carly/C# Workspace/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.csproj.CoreCompileInputs.cache
+/Users/Carly/C# Workspace/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.AssemblyInfoInputs.cache
+/Users/Carly/C# Workspace/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.AssemblyInfo.cs
+/Users/Carly/C# Workspace/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.dll
+/Users/Carly/C# Workspace/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.pdb
